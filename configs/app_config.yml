@@ -1,6 +1,6 @@
 directories:
   data_directory: data/docs
-  data_directory: data/docs_2
+  data_directory_2: data/docs_2
   persist_directory: data/vectordb/processed/chroma
   custom_persist_directory: data/vectordb/uploaded/chroma
 
